@@ -1,0 +1,23 @@
+{
+  "name": "bullshit_generator",
+  "version": "1.0.0",
+  "description": "仿狗屁不通文章生成器",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OweQian/bullshit_generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OweQian/bullshit_generator/issues"
+  },
+  "homepage": "https://github.com/OweQian/bullshit_generator#readme"
+}
