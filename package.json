@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "仿狗屁不通文章生成器",
   "main": "index.js",
+  "type": "module",
   "directories": {
     "lib": "lib"
   },
