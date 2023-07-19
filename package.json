@@ -22,6 +22,8 @@
   },
   "homepage": "https://github.com/OweQian/bullshit_generator#readme",
   "dependencies": {
+    "command-line-args": "^5.2.1",
+    "command-line-usage": "^7.0.1",
     "moment": "^2.29.4"
   }
 }
