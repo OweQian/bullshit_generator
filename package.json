@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/OweQian/bullshit_generator/issues"
   },
-  "homepage": "https://github.com/OweQian/bullshit_generator#readme"
+  "homepage": "https://github.com/OweQian/bullshit_generator#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
 }
